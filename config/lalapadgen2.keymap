@@ -60,7 +60,7 @@
 
         change_source {
             bindings = <&kp LG(SPACE)>;
-            key-positions = <10 36>;
+            key-positions = <10 35>;
         };
 
         backquote {
