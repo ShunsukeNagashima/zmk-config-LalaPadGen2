@@ -72,6 +72,11 @@
             bindings = <&kp TILDE>;
             key-positions = <12 13>;
         };
+
+        colon {
+            bindings = <&kp SEMICOLON>;
+            key-positions = <18 19>;
+        };
     };
 
     keymap {
